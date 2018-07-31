@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Revai_Jak_OPP2AnotherLang_AS3", "Revai_Jak_OPP2AnotherLang_AS3\Revai_Jak_OPP2AnotherLang_AS3.csproj", "{A8B74929-B24D-46A7-87B7-062E8073086D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client2", "Client\Client2.csproj", "{64FAE4E0-0639-49AA-972F-0AE74E166420}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8B74929-B24D-46A7-87B7-062E8073086D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8B74929-B24D-46A7-87B7-062E8073086D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8B74929-B24D-46A7-87B7-062E8073086D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8B74929-B24D-46A7-87B7-062E8073086D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64FAE4E0-0639-49AA-972F-0AE74E166420}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64FAE4E0-0639-49AA-972F-0AE74E166420}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64FAE4E0-0639-49AA-972F-0AE74E166420}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64FAE4E0-0639-49AA-972F-0AE74E166420}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

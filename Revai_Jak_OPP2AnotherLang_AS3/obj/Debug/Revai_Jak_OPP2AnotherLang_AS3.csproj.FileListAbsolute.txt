@@ -1,0 +1,27 @@
+c:\users\3106024814\documents\visual studio 2012\Projects\Revai_Jak_OPP2AnotherLang_AS3\Revai_Jak_OPP2AnotherLang_AS3\bin\Debug\Revai_Jak_OPP2AnotherLang_AS3.exe.config
+c:\users\3106024814\documents\visual studio 2012\Projects\Revai_Jak_OPP2AnotherLang_AS3\Revai_Jak_OPP2AnotherLang_AS3\bin\Debug\Revai_Jak_OPP2AnotherLang_AS3.exe
+c:\users\3106024814\documents\visual studio 2012\Projects\Revai_Jak_OPP2AnotherLang_AS3\Revai_Jak_OPP2AnotherLang_AS3\bin\Debug\Revai_Jak_OPP2AnotherLang_AS3.pdb
+c:\users\3106024814\documents\visual studio 2012\Projects\Revai_Jak_OPP2AnotherLang_AS3\Revai_Jak_OPP2AnotherLang_AS3\obj\Debug\Revai_Jak_OPP2AnotherLang_AS3.csprojResolveAssemblyReference.cache
+c:\users\3106024814\documents\visual studio 2012\Projects\Revai_Jak_OPP2AnotherLang_AS3\Revai_Jak_OPP2AnotherLang_AS3\obj\Debug\Revai_Jak_OPP2AnotherLang_AS3.Properties.Resources.resources
+c:\users\3106024814\documents\visual studio 2012\Projects\Revai_Jak_OPP2AnotherLang_AS3\Revai_Jak_OPP2AnotherLang_AS3\obj\Debug\Revai_Jak_OPP2AnotherLang_AS3.csproj.GenerateResource.Cache
+c:\users\3106024814\documents\visual studio 2012\Projects\Revai_Jak_OPP2AnotherLang_AS3\Revai_Jak_OPP2AnotherLang_AS3\obj\Debug\Revai_Jak_OPP2AnotherLang_AS3.exe
+c:\users\3106024814\documents\visual studio 2012\Projects\Revai_Jak_OPP2AnotherLang_AS3\Revai_Jak_OPP2AnotherLang_AS3\obj\Debug\Revai_Jak_OPP2AnotherLang_AS3.pdb
+C:\Users\3106024814\Documents\Visual Studio 2012\Projects\Revai_Jak_OPP2AnotherLang_AS3\Revai_Jak_OPP2AnotherLang_AS3\obj\Debug\Revai_Jak_OPP2AnotherLang_AS3.Client1.resources
+F:\#Diploma Files\Term 3\C#\Assesments\Assesment 3\Revai_Jak_OPP2AnotherLang_AS3\Revai_Jak_OPP2AnotherLang_AS3\bin\Debug\Revai_Jak_OPP2AnotherLang_AS3.exe.config
+F:\#Diploma Files\Term 3\C#\Assesments\Assesment 3\Revai_Jak_OPP2AnotherLang_AS3\Revai_Jak_OPP2AnotherLang_AS3\obj\Debug\Revai_Jak_OPP2AnotherLang_AS3.exe
+F:\#Diploma Files\Term 3\C#\Assesments\Assesment 3\Revai_Jak_OPP2AnotherLang_AS3\Revai_Jak_OPP2AnotherLang_AS3\obj\Debug\Revai_Jak_OPP2AnotherLang_AS3.pdb
+F:\#Diploma Files\Term 3\C#\Assesments\Assesment 3\Revai_Jak_OPP2AnotherLang_AS3\Revai_Jak_OPP2AnotherLang_AS3\bin\Debug\Revai_Jak_OPP2AnotherLang_AS3.exe
+F:\#Diploma Files\Term 3\C#\Assesments\Assesment 3\Revai_Jak_OPP2AnotherLang_AS3\Revai_Jak_OPP2AnotherLang_AS3\bin\Debug\Revai_Jak_OPP2AnotherLang_AS3.pdb
+F:\#Diploma Files\Term 3\C#\Assesments\Assesment 3\Revai_Jak_OPP2AnotherLang_AS3\Revai_Jak_OPP2AnotherLang_AS3\obj\Debug\Revai_Jak_OPP2AnotherLang_AS3.csprojResolveAssemblyReference.cache
+F:\#Diploma Files\Term 3\C#\Assesments\Assesment 3\Revai_Jak_OPP2AnotherLang_AS3\Revai_Jak_OPP2AnotherLang_AS3\obj\Debug\Revai_Jak_OPP2AnotherLang_AS3.Client1.resources
+F:\#Diploma Files\Term 3\C#\Assesments\Assesment 3\Revai_Jak_OPP2AnotherLang_AS3\Revai_Jak_OPP2AnotherLang_AS3\obj\Debug\Revai_Jak_OPP2AnotherLang_AS3.Properties.Resources.resources
+F:\#Diploma Files\Term 3\C#\Assesments\Assesment 3\Revai_Jak_OPP2AnotherLang_AS3\Revai_Jak_OPP2AnotherLang_AS3\obj\Debug\Revai_Jak_OPP2AnotherLang_AS3.csproj.GenerateResource.Cache
+C:\Users\Jak\Documents\#Diploma Files\Term 3\C#\Assesments\Assesment 3\Revai_Jak_OPP2AnotherLang_AS3\Revai_Jak_OPP2AnotherLang_AS3\bin\Debug\Revai_Jak_OPP2AnotherLang_AS3.exe.config
+C:\Users\Jak\Documents\#Diploma Files\Term 3\C#\Assesments\Assesment 3\Revai_Jak_OPP2AnotherLang_AS3\Revai_Jak_OPP2AnotherLang_AS3\obj\Debug\Revai_Jak_OPP2AnotherLang_AS3.exe
+C:\Users\Jak\Documents\#Diploma Files\Term 3\C#\Assesments\Assesment 3\Revai_Jak_OPP2AnotherLang_AS3\Revai_Jak_OPP2AnotherLang_AS3\obj\Debug\Revai_Jak_OPP2AnotherLang_AS3.pdb
+C:\Users\Jak\Documents\#Diploma Files\Term 3\C#\Assesments\Assesment 3\Revai_Jak_OPP2AnotherLang_AS3\Revai_Jak_OPP2AnotherLang_AS3\bin\Debug\Revai_Jak_OPP2AnotherLang_AS3.exe
+C:\Users\Jak\Documents\#Diploma Files\Term 3\C#\Assesments\Assesment 3\Revai_Jak_OPP2AnotherLang_AS3\Revai_Jak_OPP2AnotherLang_AS3\obj\Debug\Revai_Jak_OPP2AnotherLang_AS3.csprojResolveAssemblyReference.cache
+C:\Users\Jak\Documents\#Diploma Files\Term 3\C#\Assesments\Assesment 3\Revai_Jak_OPP2AnotherLang_AS3\Revai_Jak_OPP2AnotherLang_AS3\obj\Debug\Revai_Jak_OPP2AnotherLang_AS3.Client1.resources
+C:\Users\Jak\Documents\#Diploma Files\Term 3\C#\Assesments\Assesment 3\Revai_Jak_OPP2AnotherLang_AS3\Revai_Jak_OPP2AnotherLang_AS3\obj\Debug\Revai_Jak_OPP2AnotherLang_AS3.Properties.Resources.resources
+C:\Users\Jak\Documents\#Diploma Files\Term 3\C#\Assesments\Assesment 3\Revai_Jak_OPP2AnotherLang_AS3\Revai_Jak_OPP2AnotherLang_AS3\obj\Debug\Revai_Jak_OPP2AnotherLang_AS3.csproj.GenerateResource.Cache
+C:\Users\Jak\Documents\#Diploma Files\Term 3\C#\Assesments\Assesment 3\Revai_Jak_OPP2AnotherLang_AS3\Revai_Jak_OPP2AnotherLang_AS3\bin\Debug\Revai_Jak_OPP2AnotherLang_AS3.pdb

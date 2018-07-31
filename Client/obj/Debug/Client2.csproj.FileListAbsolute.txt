@@ -1,0 +1,27 @@
+C:\Users\3106024814\Documents\Visual Studio 2012\Projects\Revai_Jak_OPP2AnotherLang_AS3\Client\bin\Debug\Client.exe.config
+C:\Users\3106024814\Documents\Visual Studio 2012\Projects\Revai_Jak_OPP2AnotherLang_AS3\Client\bin\Debug\Client.exe
+C:\Users\3106024814\Documents\Visual Studio 2012\Projects\Revai_Jak_OPP2AnotherLang_AS3\Client\bin\Debug\Client.pdb
+C:\Users\3106024814\Documents\Visual Studio 2012\Projects\Revai_Jak_OPP2AnotherLang_AS3\Client\obj\Debug\Client.Client2.resources
+C:\Users\3106024814\Documents\Visual Studio 2012\Projects\Revai_Jak_OPP2AnotherLang_AS3\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\3106024814\Documents\Visual Studio 2012\Projects\Revai_Jak_OPP2AnotherLang_AS3\Client\obj\Debug\Client2.csproj.GenerateResource.Cache
+C:\Users\3106024814\Documents\Visual Studio 2012\Projects\Revai_Jak_OPP2AnotherLang_AS3\Client\obj\Debug\Client.exe
+C:\Users\3106024814\Documents\Visual Studio 2012\Projects\Revai_Jak_OPP2AnotherLang_AS3\Client\obj\Debug\Client.pdb
+C:\Users\3106024814\Documents\Visual Studio 2012\Projects\Revai_Jak_OPP2AnotherLang_AS3\Client\obj\Debug\Client2.csprojResolveAssemblyReference.cache
+F:\#Diploma Files\Term 3\C#\Assesments\Assesment 3\Revai_Jak_OPP2AnotherLang_AS3\Client\bin\Debug\Client.exe.config
+F:\#Diploma Files\Term 3\C#\Assesments\Assesment 3\Revai_Jak_OPP2AnotherLang_AS3\Client\obj\Debug\Client.exe
+F:\#Diploma Files\Term 3\C#\Assesments\Assesment 3\Revai_Jak_OPP2AnotherLang_AS3\Client\obj\Debug\Client.pdb
+F:\#Diploma Files\Term 3\C#\Assesments\Assesment 3\Revai_Jak_OPP2AnotherLang_AS3\Client\bin\Debug\Client.exe
+F:\#Diploma Files\Term 3\C#\Assesments\Assesment 3\Revai_Jak_OPP2AnotherLang_AS3\Client\bin\Debug\Client.pdb
+F:\#Diploma Files\Term 3\C#\Assesments\Assesment 3\Revai_Jak_OPP2AnotherLang_AS3\Client\obj\Debug\Client2.csprojResolveAssemblyReference.cache
+F:\#Diploma Files\Term 3\C#\Assesments\Assesment 3\Revai_Jak_OPP2AnotherLang_AS3\Client\obj\Debug\Client.Client2.resources
+F:\#Diploma Files\Term 3\C#\Assesments\Assesment 3\Revai_Jak_OPP2AnotherLang_AS3\Client\obj\Debug\Client.Properties.Resources.resources
+F:\#Diploma Files\Term 3\C#\Assesments\Assesment 3\Revai_Jak_OPP2AnotherLang_AS3\Client\obj\Debug\Client2.csproj.GenerateResource.Cache
+C:\Users\Jak\Documents\#Diploma Files\Term 3\C#\Assesments\Assesment 3\Revai_Jak_OPP2AnotherLang_AS3\Client\bin\Debug\Client.exe.config
+C:\Users\Jak\Documents\#Diploma Files\Term 3\C#\Assesments\Assesment 3\Revai_Jak_OPP2AnotherLang_AS3\Client\obj\Debug\Client.exe
+C:\Users\Jak\Documents\#Diploma Files\Term 3\C#\Assesments\Assesment 3\Revai_Jak_OPP2AnotherLang_AS3\Client\obj\Debug\Client.pdb
+C:\Users\Jak\Documents\#Diploma Files\Term 3\C#\Assesments\Assesment 3\Revai_Jak_OPP2AnotherLang_AS3\Client\bin\Debug\Client.exe
+C:\Users\Jak\Documents\#Diploma Files\Term 3\C#\Assesments\Assesment 3\Revai_Jak_OPP2AnotherLang_AS3\Client\obj\Debug\Client2.csprojResolveAssemblyReference.cache
+C:\Users\Jak\Documents\#Diploma Files\Term 3\C#\Assesments\Assesment 3\Revai_Jak_OPP2AnotherLang_AS3\Client\obj\Debug\Client.Client2.resources
+C:\Users\Jak\Documents\#Diploma Files\Term 3\C#\Assesments\Assesment 3\Revai_Jak_OPP2AnotherLang_AS3\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Jak\Documents\#Diploma Files\Term 3\C#\Assesments\Assesment 3\Revai_Jak_OPP2AnotherLang_AS3\Client\obj\Debug\Client2.csproj.GenerateResource.Cache
+C:\Users\Jak\Documents\#Diploma Files\Term 3\C#\Assesments\Assesment 3\Revai_Jak_OPP2AnotherLang_AS3\Client\bin\Debug\Client.pdb

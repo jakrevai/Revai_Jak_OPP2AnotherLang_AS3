@@ -1,0 +1,2 @@
+start Revai_Jak_OPP2AnotherLang_AS3\bin\Debug\Revai_Jak_OPP2AnotherLang_AS3.exe
+start Client\bin\Debug\Client.exe
